@@ -1,0 +1,64 @@
+{
+  "Onboarding": {
+    "Welcome": "Welcome!",
+    "Welcome Description": "Start exploring the app.",
+    "Fast & Modern": "Fast & Modern",
+    "Fast & Modern Description": "Comfortable experience with modern interface.",
+    "Let's Start": "Let's Start",
+    "Let's Start Description": "Let's do great things together.",
+    "Skip": "Skip",
+    "Next": "Next",
+    "Start": "Start"
+  },
+  "Language": {
+    "Select Language": "Select Language",
+    "Choose your preferred language": "Choose your preferred language",
+    "Back": "Back",
+    "Choose the language": "Choose the language",
+    "Select your preferred language below This helps us serve you better.": "Select your preferred language below. This helps us serve you better.",
+    "You Selected": "You Selected",
+    "All Languages": "All Languages",
+    "Search": "Search",
+    "Continue": "Continue"
+  },
+  "Auth": {
+    "Login": {
+      "Title": "Welcome to Login",
+      "Description": "Log in to your account to benefit from all the features of the app.",
+      "Email": "Email",
+      "Password": "Password",
+      "Forgot Password": "Forgot your password?",
+      "Login Button": "Log In",
+      "Or": "Or",
+      "Login with Google": "Sign in with Google",
+      "Login with Apple": "Sign in with Apple",
+      "No Account": "Don't have an account?",
+      "Create Account": "Create an account"
+    },
+    "Register": {
+      "Title": "Create an Account",
+      "Description": "Create an account to benefit from all the features of the app.",
+      "Full Name": "Full Name",
+      "Email": "Email",
+      "Password": "Password",
+      "Register Button": "Sign Up",
+      "Or": "Or",
+      "Register with Google": "Sign up with Google",
+      "Register with Apple": "Sign up with Apple",
+      "Have Account": "Already have an account?",
+      "Login": "Log in"
+    }
+  },
+  "Home": {
+    "Title": "Home",
+    "Guest": "Guest"
+  },
+  "Profile": {
+    "Title": "Profile",
+    "Settings": "Settings",
+    "Personal Info": "Personal Information",
+    "App Language": "App Language",
+    "Notification Preferences": "Notification Preferences",
+    "Logout": "Log Out"
+  }
+}

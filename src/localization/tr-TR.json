@@ -1,0 +1,64 @@
+{
+  "Onboarding": {
+    "Welcome": "Hoş Geldin!",
+    "Welcome Description": "Uygulamayı keşfetmeye başla.",
+    "Fast & Modern": "Hızlı & Modern",
+    "Fast & Modern Description": "Modern arayüz ile rahat deneyim.",
+    "Let's Start": "Başlayalım",
+    "Let's Start Description": "Birlikte harika şeyler yapalım.",
+    "Skip": "Atla",
+    "Next": "İleri",
+    "Start": "Başla"
+  },
+  "Language": {
+    "Select Language": "Dil Seçin",
+    "Choose your preferred language": "Tercih ettiğiniz dili seçin",
+    "Back": "Geri",
+    "Choose the language": "Dili seçin",
+    "Select your preferred language below This helps us serve you better.": "Aşağıdan tercih ettiğiniz dili seçin. Bu, size daha iyi hizmet vermemize yardımcı olur.",
+    "You Selected": "Seçtiğiniz Dil",
+    "All Languages": "Tüm Diller",
+    "Search": "Ara",
+    "Continue": "Devam Et"
+  },
+  "Auth": {
+    "Login": {
+      "Title": "Giriş Yap",
+      "Description": "Hesabınıza giriş yaparak uygulamanın tüm özelliklerinden faydalanabilirsiniz.",
+      "Email": "E-posta",
+      "Password": "Şifre",
+      "Forgot Password": "Şifrenizi mi unuttunuz?",
+      "Login Button": "Giriş Yap",
+      "Or": "Veya",
+      "Login with Google": "Google ile Giriş Yap",
+      "Login with Apple": "Apple ile Giriş Yap",
+      "No Account": "Hesabınız yok mu?",
+      "Create Account": "Bir hesap oluşturun"
+    },
+    "Register": {
+      "Title": "Hesap Oluştur",
+      "Description": "Hesap oluşturarak uygulamanın tüm özelliklerinden faydalanabilirsiniz.",
+      "Full Name": "Ad Soyad",
+      "Email": "E-posta",
+      "Password": "Şifre",
+      "Register Button": "Kayıt Ol",
+      "Or": "Veya",
+      "Register with Google": "Google ile Kayıt Ol",
+      "Register with Apple": "Apple ile Kayıt Ol",
+      "Have Account": "Hesabınız var mı?",
+      "Login": "Giriş yapın"
+    }
+  },
+  "Home": {
+    "Title": "Ana Sayfa",
+    "Guest": "Misafir"
+  },
+  "Profile": {
+    "Title": "Profil",
+    "Settings": "Ayarlar",
+    "Personal Info": "Kişisel Bilgilerim",
+    "App Language": "Uygulama Dili",
+    "Notification Preferences": "Bildirim Tercihleri",
+    "Logout": "Çıkış Yap"
+  }
+}
